@@ -1,6 +1,6 @@
-# Nuke 16 Stamps
+# Nuke 16 -- Stamps
 
-No extra changes other than PySide2 to PySide6 shift has been made.
+No extra changes have been made other than PySide2 to PySide6 shift.
 
 For installation please check the original repository.
 
