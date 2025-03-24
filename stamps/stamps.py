@@ -2,6 +2,9 @@
 # Stamps by Adrian Pueyo and Alexey Kuchinski
 # Smart node connection system for Nuke
 # adrianpueyo.com, 2018-2021
+# Updated for Nuke16 by Gerwaeld
+# March 2025
+
 version= "v1.1"
 date = "May 18 2021"
 #-----------------------------------------------------
