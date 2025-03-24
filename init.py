@@ -1,2 +1,2 @@
-"""import nuke
-nuke.pluginAddPath("stamps")"""
+import nuke
+nuke.pluginAddPath("stamps")
